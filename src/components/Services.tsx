@@ -9,10 +9,10 @@ export default function Services() {
                 <div className="card w-full lg:w-1/3 shadow-2xl shadow-secondary">
                     <div className="card-body">
                         <h2 className="card-title text-secondary">
-                            Web Development
+                            Development
                         </h2>
                         <p>
-                            I can build you a website from scratch, or help you with an existing one. I have experience with HTML, CSS, JavaScript, and plenty of other languages and technologies.
+                            I can build you anything from scratch, or help you with an existing software. I have experience with Frontend Development, Python, and plenty of other languages and technologies.
                         </p>
                     </div>
                 </div>
