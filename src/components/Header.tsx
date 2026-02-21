@@ -35,7 +35,7 @@ export default function Header() {
             <div className="navbar-center rounded-lg text-base-content bg-base-200 shadow-lg shadow-secondary">
                 <ul className="flex space-x-5 p-2">
                     <li className='btn btn-sm font-normal capitalize'><Link href="/about">About</Link></li>
-                    <li className='btn btn-sm font-normal capitalize'><Link href="/projects">Projects</Link></li>
+                    {/* <li className='btn btn-sm font-normal capitalize'><Link href="/projects">Projects</Link></li> */}
                     <li className='btn btn-sm font-normal capitalize'><Link href="/services">Services</Link></li>
                 </ul>
             </div>
