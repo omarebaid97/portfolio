@@ -12,27 +12,27 @@ export default function Work() {
             </div>
             <div className="stat">
                 <div className="stat-figure bg-base-300 h-20 items-center flex p-5 rounded-lg">
+                    <Image src="/veritas-logo.png" alt="Logo for Veritas" width={100} height={100} />
+                </div>
+                <div className="stat-value text-2xl">Veritas</div>
+                <div className="stat-desc">CTRM Consultant</div>
+                <div className="stat-desc">Nov 2023 - Present</div>
+            </div>
+            <div className="stat">
+                <div className="stat-figure bg-base-300 h-20 items-center flex p-5 rounded-lg">
                     <Image src="/unlock-logo.png" alt="Logo for Unlock Health" width={100} height={100} />
                 </div>
                 <div className="stat-value text-2xl">Unlock Health</div>
-                <div className="stat-desc">Frontend Developer</div>
-                <div className="stat-desc">Feb 2022 - Present</div>
+                <div className="stat-desc">Software Engineer</div>
+                <div className="stat-desc">Feb 2022 - Nov 2023</div>
             </div>
             <div className="stat">
                 <div className="stat-figure bg-base-300 h-20 items-center flex p-5 rounded-lg">
                     <Image src="/fuzati-logo.svg" alt="Logo for Fuzati" width={100} height={100} />
                 </div>
                 <div className="stat-value text-2xl">Fuzati</div>
-                <div className="stat-desc">Junior Developer</div>
+                <div className="stat-desc">Frontend Developer</div>
                 <div className="stat-desc">Feb 2019 - May 2022</div>
-            </div>
-            <div className="stat">
-                <div className="stat-figure bg-base-300 h-20 items-center flex pt-5 px-5 rounded-lg">
-                    <Image src="/bellagreen-logo.svg" alt="Logo for Bellagreen" width={100} height={100} />
-                </div>
-                <div className="stat-value text-2xl">Bellagreen</div>
-                <div className="stat-desc">Assistant Manager</div>
-                <div className="stat-desc">Feb 2018 - Mar 2019</div>
             </div>
             <Link href="https://github.com/oebaid97/portfolio/raw/main/public/resume.pdf" target="_blank" className="btn btn-accent max-w-sm flex text-base-100">Download Resume <ArrowDownOnSquareIcon className='fill-base-100 font-bold h-5 w-5 mb-2' /></Link>
         </div>
